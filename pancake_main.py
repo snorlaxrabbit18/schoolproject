@@ -23,7 +23,6 @@ randomlist = random.sample(range(1, 30), N)
 print(randomlist)
 
 pancake = randomlist
-print(pancake)
 k = N
 while(k>1):
     print(pancake)
